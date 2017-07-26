@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\DELL\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\DELL\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\DELL\Desktop\Test\Test\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\DELL\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\DELL\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\DELL\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
